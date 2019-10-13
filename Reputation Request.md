@@ -12,7 +12,9 @@
 >
 >    Third, I'm a good writer in blockchain technical propagation. I have my special column in JIANSHU,CSDN,8btc, etc. I've written more than 100 articles about ETHERUM, Smart Contract, etc.  I'll propagate DAO Stack too.
 >
->   Let me do some work for DAO stack ASAP.
+>  I am working with [Daniel Bar](https://twitter.com/danieltbar), [Bob Jiang](https://twitter.com/bobjiang123) and [Jessie Li](https://twitter.com/JESSCATE93) together on the part of the upcoming bitfwd HiBlock #Blockathon DAO.Let's do some works for DAO stack ASAP.
+
+Social-Identity Verification Tweet #SIVT:https://twitter.com/duncanwang8/status/1183357455352266752?s=20
 
 ##### Some of my my special columns:
     简书:https://www.jianshu.com/u/347463663a86
